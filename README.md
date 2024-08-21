@@ -14,13 +14,4 @@ The analysis is conducted in the Jupyter notebook eda.ipynb. This notebook inclu
 Installation                                                                                                                                                                                                 To run the Jupyter notebook, you will need to have the following Python packages installed:
 -pandas                      -matplotlib               -seaborn
 
-Here are some example visualizations from the analysis:
 
-This graph shows the relationship between users' ages and their monthly revenue contribution.
-https://github.com/esrase/Netflix_ExploratoryDataAnalysis_Project/blob/main/Age%20vs%20monthly%20revenue.png
-
-The pairplot illustrates the pairwise relationships between different features in the dataset.
-https://github.com/esrase/Netflix_ExploratoryDataAnalysis_Project/blob/main/pairplot.png
-
-This chart displays the distribution of different subscription types among Netflix users.
-https://github.com/esrase/Netflix_ExploratoryDataAnalysis_Project/blob/main/subscriptipn.png
